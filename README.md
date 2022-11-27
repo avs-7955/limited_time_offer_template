@@ -12,10 +12,10 @@ TechStack</h1>
 ## App Screenshots
 
 <div align="center">
-<h5>Desktop View</h5>
+<h4>Desktop View</h4>
 <img src="https://ik.imagekit.io/pq7opoglh/GitHub_ReadMe/Web_Development/Timer_template/Desktop_view_timer_nvrQfZRaF.png?ik-sdk-version=javascript-1.4.3&updatedAt=1669574589777"/>
 
-<h5>Mobile View</h5>
+<h4>Mobile View</h4>
 <img src="https://ik.imagekit.io/pq7opoglh/GitHub_ReadMe/Web_Development/Timer_template/mobile_view_timer_jCvLk8f2b.png?ik-sdk-version=javascript-1.4.3&updatedAt=1669574589904"/>
 
 </div>
