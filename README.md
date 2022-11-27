@@ -19,3 +19,23 @@ TechStack</h1>
 <img src="https://ik.imagekit.io/pq7opoglh/GitHub_ReadMe/Web_Development/Timer_template/mobile_view_timer_jCvLk8f2b.png?ik-sdk-version=javascript-1.4.3&updatedAt=1669574589904"/>
 
 </div>
+
+## Run Locally
+
+1. Clone the project
+
+```bash
+  git clone https://github.com/avs-7955/limited_time_offer_template.git
+```
+
+2. Go to the project directory
+
+```bash
+  cd limited_time_offer_template
+```
+
+3. Start the application - Open 'index.html'
+
+## Author
+
+-   [Ayushi Sharan](https://github.com/avs-7955)
