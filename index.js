@@ -1,5 +1,5 @@
 // Timer takes hours
-let TIMER_RESET_TIME = 6 
+let TIMER_RESET_TIME = 6
 
 let count = TIMER_RESET_TIME * 3600
 
@@ -20,7 +20,7 @@ let display_timer = (count) => {
     hours = Math.floor(count / 3600)
     rem_hour = count % 3600
     mins = Math.floor(rem_hour / 60)
-    sec = count % 60
+    sec = Math.floor(count % 60)
 
     if (sec < 10){
         sec = `0${sec}`
@@ -31,7 +31,7 @@ let display_timer = (count) => {
     if (hours < 10){
         hours = `0${hours}`
     }
-    let time_left = ` ${hours}: ${mins}: ${sec}`
+    let time_left = ` ${hours} : ${mins} : ${sec}`
     
     console.log(time_left)
     
