@@ -8,7 +8,7 @@ A limited time offer banner in which a timer is present. The timer resets as soo
 TechStack</h1>
 
 <div align="center"><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg"/><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg"/><img width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"/><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>
-
+</div>
 ## App Screenshots
 
 <div align="center">
