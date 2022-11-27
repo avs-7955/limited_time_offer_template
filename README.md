@@ -17,7 +17,6 @@ TechStack</h1>
 
 <h4>Mobile View</h4>
 <img src="https://ik.imagekit.io/pq7opoglh/GitHub_ReadMe/Web_Development/Timer_template/mobile_view_timer_jCvLk8f2b.png?ik-sdk-version=javascript-1.4.3&updatedAt=1669574589904"/>
-
 </div>
 
 ## Run Locally
